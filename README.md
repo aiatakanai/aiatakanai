@@ -1,9 +1,9 @@
 <!-- PROFİL BANNER / HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%26+FPV+Drone+Enthusiast;Prompt+Engineer+%26+Yazılım+Mimarı;Webmaster+%26+Grafik+Tasarımcı;AI+%26+Automation+Odaklı+Çözüm+Geliştirici;Code%2C+Design%2C+Fly+%7C+Multidisipliner+Ürün+Geliştirme" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%26+FPV+Drone+Enthusiast;Prompt+Engineer+%26+Yazılım+Mimarı;Webmaster+%26+Grafik+Tasarımcı;AI+%26+Automation+Odaklı+Çözüm+Geliştirici;Code%2C+Design%2C+Fly+%7C+Multidisipliner+Ürün+Geliştirme" alt="" />
 </p>
 
-<h1 align="center">Merhaba, Ben [Atakan Atakangil] 👋</h1>
+<h1 align="center">Merhaba, Ben Atakan Atakangil 👋</h1>
 
 <p align="center">
   <b>"Kodun ve Gökyüzünün Buluştuğu Nokta: Full-Stack Geliştirme, Yapay Zeka ve FPV Drone Teknolojileri"</b>
