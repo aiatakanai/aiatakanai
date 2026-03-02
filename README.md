@@ -1,6 +1,8 @@
 <!-- PROFİL BANNER / HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%26+FPV+Drone+Enthusiast;Prompt+Engineer+%26+Yazılım+Mimarı;Webmaster+%26+Grafik+Tasarımcı;AI+%26+Automation+Odaklı+Çözüm+Geliştirici;Code%2C+Design%2C+Fly+%7C+Multidisipliner+Ürün+Geliştirme" alt="" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%26+FPV+Drone+Enthusiast;Prompt+Engineer+%26+Yaz%C4%B1l%C4%B1m+Mimar%C4%B1;Webmaster+%26+Grafik+Tasar%C4%B1mc%C4%B1;AI+%26+Automation+Odakl%C4%B1+%C3%87%C3%B6z%C3%BCm+Geli%C5%9Ftirici;Code%2C+Design%2C+Fly+%7C+Multidisipliner+%C3%9Cr%C3%BCn+Geli%C5%9Ftirme" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Merhaba, Ben Atakan Atakangil 👋</h1>
